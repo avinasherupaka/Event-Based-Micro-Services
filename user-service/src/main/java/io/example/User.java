@@ -8,7 +8,7 @@ import javax.persistence.Id;
 /**
  * The {@link User} domain entity representing the identity of a user.
  *
- * @author Kenny Bastani
+ * @author Avinash Erupaka
  */
 @Entity
 public class User {

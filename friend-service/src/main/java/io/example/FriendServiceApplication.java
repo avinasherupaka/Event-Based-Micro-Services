@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
 /**
  * The microservice that manages domain data for friend requests.
  *
- * @author Kenny Bastani
+ * @author Avinash Erupaka
  */
 @SpringBootApplication
 @EnableDiscoveryClient

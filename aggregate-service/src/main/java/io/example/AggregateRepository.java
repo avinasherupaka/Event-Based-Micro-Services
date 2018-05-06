@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * Repository for managing {@link User} data and friend connections.
  *
- * @author Kenny Bastani
+ * @author Avinash Erupaka
  */
 public interface AggregateRepository extends GraphRepository<User> {
 

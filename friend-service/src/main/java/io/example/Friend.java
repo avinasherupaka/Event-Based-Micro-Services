@@ -5,7 +5,7 @@ import javax.persistence.*;
 /**
  * The domain entity representing a friend relationship between two users.
  *
- * @author Kenny Bastani
+ * @author Avinash Erupaka
  */
 @Entity
 @Table(uniqueConstraints =

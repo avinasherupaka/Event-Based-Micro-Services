@@ -15,7 +15,7 @@ import java.util.Optional;
 /**
  * Controller responsible for exposing REST API interface for managing {@link Friend} domain entities.
  *
- * @author Kenny Bastani
+ * @author Avinash Erupaka
  */
 @RestController
 @RequestMapping("/v1")

@@ -12,7 +12,7 @@ import org.springframework.messaging.Message;
  * to a graph operation that replicates a connected view of domain data
  * across microservices.
  *
- * @author Kenny Bastani
+ * @author Avinash Erupaka
  */
 @Configuration
 @EnableBinding(FriendSink.class)

@@ -4,7 +4,7 @@ package io.example;
  * An event that encapsulates a state transition for the {@link Friend}
  * domain object.
  *
- * @link Kenny Bastani
+ * @link Avinash Erupaka
  */
 public class FriendEvent {
 

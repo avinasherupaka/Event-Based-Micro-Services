@@ -12,7 +12,7 @@ import java.util.Set;
  * A projection of the {@link User} domain object that is owned by the
  * user service.
  *
- * @author Kenny Bastani
+ * @author Avinash Erupaka
  */
 @NodeEntity
 public class User {

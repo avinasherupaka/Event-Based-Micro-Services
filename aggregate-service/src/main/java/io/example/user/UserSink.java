@@ -8,7 +8,7 @@ import org.springframework.messaging.SubscribableChannel;
  * Custom Spring Cloud Stream {@link Sink} binding for processing
  * events from the {@link User} channel.
  *
- * @author Kenny Bastani
+ * @author Avinash Erupaka
  */
 public interface UserSink extends Sink {
     String INPUT = "user";

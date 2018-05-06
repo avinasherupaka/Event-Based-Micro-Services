@@ -3,7 +3,7 @@ package io.example.friend;
 /**
  * The type of events that affect the state of a {@link Friend}.
  *
- * @author Kenny Bastani
+ * @author Avinash Erupaka
  */
 public enum FriendEventType {
     FRIEND_ADDED,

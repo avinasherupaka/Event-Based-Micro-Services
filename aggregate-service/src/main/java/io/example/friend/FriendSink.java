@@ -8,7 +8,7 @@ import org.springframework.messaging.SubscribableChannel;
  * Custom Spring Cloud Stream {@link Sink} binding for processing
  * events from the {@link Friend} channel.
  *
- * @author Kenny Bastani
+ * @author Avinash Erupaka
  */
 public interface FriendSink extends Sink {
 

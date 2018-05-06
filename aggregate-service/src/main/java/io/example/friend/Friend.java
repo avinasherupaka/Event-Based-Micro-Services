@@ -4,7 +4,7 @@ package io.example.friend;
  * A projection of the {@link Friend} domain object that is owned by the
  * friend service.
  *
- * @author Kenny Bastani
+ * @author Avinash Erupaka
  */
 public class Friend {
     private Long id;

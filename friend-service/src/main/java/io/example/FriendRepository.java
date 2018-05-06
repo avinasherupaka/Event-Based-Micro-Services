@@ -8,7 +8,7 @@ import org.springframework.data.repository.query.Param;
 /**
  * A repository for managing {@link Friend} entities.
  *
- * @author Kenny Bastani
+ * @author Avinash Erupaka
  */
 public interface FriendRepository extends JpaRepository<Friend, Long> {
 

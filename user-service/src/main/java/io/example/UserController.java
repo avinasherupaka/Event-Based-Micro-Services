@@ -13,7 +13,7 @@ import javax.transaction.Transactional;
 /**
  * Controller for the {@link User} API.
  *
- * @author Kenny Bastani
+ * @author Avinash Erupaka
  */
 @RestController
 @RequestMapping("/v1")
